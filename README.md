@@ -1,5 +1,5 @@
 
-# Docker + Nginx config to route multiples Apps
+# Docker + Nginx config to route multiple Apps
 
 First, lets create a network to make all the containers accesible by name.
 
